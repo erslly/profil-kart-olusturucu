@@ -29,9 +29,7 @@ const defaultProfile: ProfileData = {
     ],
     skills: [
             { id: "1", name: "UI/UX" },
-            { id: "2", name: "Front-end Developer" },
-            { id: "3", name: "Hentai Avcısı" },
-            { id: "4", name: "Kücük meme secici" },
+            { id: "2", name: "Front-end Developer" }
     ],
 };
 
