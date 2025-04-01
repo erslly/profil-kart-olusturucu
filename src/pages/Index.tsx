@@ -11,10 +11,10 @@ import { CardStyle, ProfileData } from "../types/profile";
 const defaultProfile: ProfileData = {
     fullName: "ersllydev",
     title: "Front-end Developer",
-    company: "nyde sikis merkezi",
+    company: "test",
     email: "dev@erslly.xyz",
     phone: "3131313131",
-    bio: "nyde bana gotunu verene kadar yola devam",
+    bio: "test",
     socialMedia: [
         {
             platform: "github",
