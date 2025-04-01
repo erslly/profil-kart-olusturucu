@@ -76,7 +76,7 @@ const Index = () => {
               <StyleSelector selectedStyle={cardStyle} onChange={setCardStyle} />
               
               <div className="p-6 bg-card rounded-lg border shadow-sm">
-                <h2 className="text-xl font-semibold mb-4">Card Preview</h2>
+                <h2 className="text-xl font-semibold mb-4">Kart Önizlemesi</h2>
                 
                 <div ref={cardRef} className="w-full overflow-hidden rounded-lg shadow-md">
                   <ProfileCard profile={profile} style={cardStyle} />
