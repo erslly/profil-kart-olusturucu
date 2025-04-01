@@ -97,7 +97,7 @@ const ImageUpload = ({ onImageChange, currentImage }: ImageUploadProps) => {
               size="sm"
               onClick={() => document.getElementById("profile-image")?.click()}
             >
-              Select Image
+              Resim seç
             </Button>
           </div>
         </Card>
